@@ -57,5 +57,5 @@
   둘의 중요한 차이점은 Correlate와 De-Correlate이다.
   Mel-Spectrogrtam의 경우 주파수끼리 Correlate하기 때문에 domain이 한정적인 문제에서 더 좋은 성능을 보이고, MFCC의 경우는 De-Correlate을 해주기 때문에 일반적인 상황에서 더 좋은 성능을 보여준다고 함.
 
-
+ref - https://m.blog.naver.com/sooftware/221661644808
     
